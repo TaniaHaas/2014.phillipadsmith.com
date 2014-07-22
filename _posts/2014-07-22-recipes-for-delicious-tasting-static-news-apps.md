@@ -34,7 +34,7 @@ The question remains, is there room to take these ideas further, while at the sa
 
 The answer is a definite **maybe**.
 
-Over  the next few posts, I'm hoping to explore:
+Over the next few posts, I'm hoping to explore:
 
 * The magic behind some of the existing static news app tools and templates
 * A list of the "minimum viable ingredients" that are typically necessary to make your own static news app architecture
